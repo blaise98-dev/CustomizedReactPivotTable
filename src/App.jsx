@@ -1,11 +1,11 @@
 import React from 'react';
 import tips from './tips';
-import {sortAs} from '../src/Utilities';
-import TableRenderers from '../src/TableRenderers';
+import {sortAs} from './Utilities';
+import TableRenderers from './TableRenderers';
 import createPlotlyComponent from 'react-plotly.js/factory';
-import createPlotlyRenderers from '../src/PlotlyRenderers';
-import PivotTableUI from '../src/PivotTableUI';
-import '../src/pivottable.css';
+import createPlotlyRenderers from './PlotlyRenderers';
+import PivotTableUI from './PivotTableUI';
+import './pivottable.css';
 import Dropzone from 'react-dropzone';
 import Papa from 'papaparse';
 
