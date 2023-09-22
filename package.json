@@ -38,7 +38,7 @@
     "react",
     "pivottable"
   ],
-  "author": "Nicolas Kruchten <nicolas@kruchten.com>",
+  "author": "AskField Management Team",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/plotly/react-pivottable/issues"
